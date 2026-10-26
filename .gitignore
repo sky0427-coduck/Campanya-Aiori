@@ -1,0 +1,5 @@
+.env
+dist/
+server/
+config/*.json
+node_modules/
